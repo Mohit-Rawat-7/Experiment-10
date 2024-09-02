@@ -33,7 +33,7 @@ Private members can only be accessed within the class itself. This helps protect
 In summary, a class is a blueprint that defines what data and actions an object will have, and methods are functions that operate on this data, with public and private access controls to manage how this data is used.
 
 ## Program Codes
-1) CAR DETAILS:-
+1)CAR DETAILS:-
 ~~~ javascript
  //Mohit Singh Rawat
  //23070123086
