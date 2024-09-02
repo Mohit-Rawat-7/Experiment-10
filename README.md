@@ -85,7 +85,7 @@ cout <<"Sport: "<< sport<<endl;
     } 
 ~~~~
 
-3)CALCULATE AREA USING CLASS(public private variable):-
+3) CALCULATE AREA USING CLASS(public private variable):-
 ~~~javascript
 
  //Mohit Singh Rawat
