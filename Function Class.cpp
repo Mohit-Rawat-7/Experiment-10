@@ -5,17 +5,17 @@ using namespace std;
 class Band{
     public:
 
-    string title = "Taal";
-    string genre = "Indie";
-    string country = "India";
-    int year = 1991;
+    string title = "Hades";
+    string sport = "Football";
+    string captain = "Mohit";
+    int year = 2021;
     
 
     void displayInfo(){
-cout<< "Band details:- "<<endl;
+cout<< "Team details:- "<<endl;
 cout<<"Title: "<<title <<endl; 
-cout <<"Genre: "<< genre<<endl;
- cout <<"Origin: "<< country<<endl;
+cout <<"Sport: "<< sport<<endl;
+ cout <<"Captain: "<< captain<<endl;
  cout <<"Established: "<<year<<endl;
     }
 };
